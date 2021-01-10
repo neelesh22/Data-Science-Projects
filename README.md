@@ -8,3 +8,7 @@ Project-2
 1. Agriculture_analysis
 2. Covid-19_ US
 3. Space_Classification
+
+Project-3
+1. Doctor_fees_prediction
+2. Food_cost_prediction
